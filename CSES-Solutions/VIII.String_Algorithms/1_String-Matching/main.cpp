@@ -3,7 +3,7 @@
 
 using namespace std;
 const long long b = 1e9 + 9;
-const int a = 31;
+const int a = 53;
 long long h[1000001]; // преффиксные хеши первой строки
 long long p[1000001]; // степени базы а
 
